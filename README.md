@@ -16,3 +16,5 @@
 𝗞𝗲𝘆 𝗙𝗶𝗻𝗱𝗶𝗻𝗴𝘀: 📈 I successfully developed and presented a range of significant metrics, including total orders, sales, profit, average delivery days, and monthly sales and profit year-over-year (YOY).
 
 📊 By harnessing data from the past two years, I created a 15-day forecast, offering valuable insights to steer future decisions and strategies. 
+![280969461-7ae484a8-e560-4a35-a1bf-738d139db908](https://github.com/user-attachments/assets/c0357412-9377-4cf0-b38d-0eb301994527)
+
